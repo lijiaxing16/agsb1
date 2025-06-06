@@ -33,7 +33,7 @@ CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的�
 # ====== 全局可配置参数（可直接在此处修改） ======
 USER_NAME = "ljc666"         # 用户名
 UUID = "a91b59b6-ade4-497d-b4e9-88d184c48048"                     # UUID，留空则自动生成
-PORT = 59999                   # Vmess端口，留空或0则自动生成
+PORT = 18518                   # Vmess端口，留空或0则自动生成
 DOMAIN = "bb.ljc.dpdns.org"                   # 域名，留空则自动获取
 CF_TOKEN = "eyJhIjoiZTA4N2RkNWQxOWM1ZmY5MDFiZjM0MTZiMzA3N2JjZmUiLCJ0IjoiZDljZmRiNjYtNWI3ZS00Yzk5LWIxODItMmM4NTA4NTY3YWRhIiwicyI6IlptSTRPVGhpTTJJdE1UTTJOQzAwTWpBMUxXSmtZbVl0WXpBd01URXlOalEyTTJSbCJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
